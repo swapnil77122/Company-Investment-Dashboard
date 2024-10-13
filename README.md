@@ -1,6 +1,5 @@
 
 
-```markdown
 # Company Investment Dashboard
 
 ## Overview
@@ -27,7 +26,7 @@ To run this application, you need the following:
    ```bash
    git clone <repository_url>
    cd <repository_directory>
-   ```
+
 
 2. Install the required packages:
    ```bash
